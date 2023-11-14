@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+
+config.py
+games.csv
+players.csv
